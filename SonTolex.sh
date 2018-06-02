@@ -1,10 +1,6 @@
 #!/system/xbin/bash
 #MauNgapainGblk?
-#DiRecodeGakBakalJadiinLuMastah
-#DiGantiAuthorGakBakalJadiinLuMaster
-#MikirMakeOtakGblk
-#KontolKaloMauReedit/Recode 
-#Pm Gua Bangsat
+#KONTOL KAU 
 clear
 cd module
 python2 please.py
@@ -20,14 +16,14 @@ echo $red
 cat asw.txt
 echo ""
 echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
-echo "\033[32;1mAuthor : Mr.B4J1N64N"
-echo "\033[37;1mFeat: Mr.IM81"
-echo "\033[35;1mversion Tools: 6"
-echo "\033[35;1mTeam : DARKNESS CYBER TEAM"
-echo "\033[33;1mKontak Me :  083108271123"
+echo "\033[32;1mAuthor : MrSontolex"
+echo "\033[37;1mFeat: Fuck Men"
+echo "\033[35;1mversion Tools: 3"
+echo "\033[35;1mTeam : PERSIT2K18"
+echo "\033[33;1mKontak Me :  089628368691"
 echo "\033[31;1mPlease For Subcribe Youtube:"
-echo "\033[92mDarkness Cyber Team" 
-echo "\033[36;1mIndonesia Security Lite"
+echo "\033[92mSontole Squad" 
+echo "\033[36;1mSontoleSquad"
 echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
 echo ""
 echo "\033[32;1mSilahkan Pilih Tools Yang mau Kamu pake:)?:"
@@ -441,7 +437,7 @@ read -p "root@T00Ls-B4J1N64Nv6~#" bro
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mrsontolex" | lolcat
 php tp.php
 fi
 
@@ -449,48 +445,48 @@ if
 [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mrsontolex"
 php t.php
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
 then
-figlet "Mr.B4J1N64N"
+figlet "Mrsontolex"
 php mataharimall.php
 fi
 
 if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mrsontolex"
 php hooq.php
 fi
 
 if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
-toilet -f slant --gay "Mr.B4J1N64N"
+toilet -f slant --gay "Mrsontolex"
 php kfc.php
 fi
 
 if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
-toilet -f mono12 -F gay "Mr.B4J1N64N"
+toilet -f mono12 -F gay "Mrsontolex"
 php phd.php
 fi
 
 if [ $bro = 7 ] || [ $bro = 7 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mrsontolex"
 php whiskas.php
 fi
 
 if [ $bro = 8 ] || [ $bro = 8 ]
 then
 clear
-figlet "Mr.B4J1N64N"
+figlet "Mrsontolex"
 php zipay.php
 fi
 
@@ -3317,7 +3313,7 @@ fi
 
 if [ $bro = 0 ] || [ $bro = 00 ]
 then
-echo "\033[32;1mDARKNESS CYBER TEAM"
+echo "\033[32;1mPERSIT2K!8"
 sleep 1
 echo "\033[33;1mWe Security"
 sleep 1
